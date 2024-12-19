@@ -1,4 +1,4 @@
-Trabalho a1 - hipermidia
-Ycaro Entriel
-Laura machuca
+## Trabalho a1 - hipermidia
+Ycaro Entriel,
+Laura machuca,
 Bento
